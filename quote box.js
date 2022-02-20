@@ -24,7 +24,7 @@ function showQuoteThree() {
 }
 function showQuoteFour() {
     document.getElementById("Quotes").innerHTML = quotesarray[Math.floor((Math.random()*4))];
-    document.getElementById("Quotes").style.color = 'white';
+    document.getElementById("Quotes").style.color = 'black';
     document.getElementById("Quotes").style.backgroundColor = 'yellow';
     document.getElementById("Quotes").style.borderBlockColor = '#556B2F';
 }
