@@ -12,7 +12,8 @@ function converter(){
     if(temp==1){
         resultstorer = userinput*onepound;
         document.getElementById("unit").innerHTML = resultstorer+" kilogram";
-    }else{
+    }
+    else{
         resultstorer = userinput*onekilogram;
         document.getElementById("unit").innerHTML = resultstorer+" pound";
     }
