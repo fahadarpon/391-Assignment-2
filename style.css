@@ -19,7 +19,7 @@
     background-color: wheat;
     width: 700px;
     border: 4px solid black;
-    padding: 20px;
+    padding: 15px;
     margin: 10px;
     text-align: center;  
 }
@@ -30,21 +30,26 @@
    height: 20px ; 
    width: 25px;
    background-color: orange ;
+   
+   border: 5px solid blanchedalmond;
 }
 #bt-2{
     height: 20px ; 
     width: 25px;
     background-color: green ;
+    border: 5px solid blanchedalmond;
 }
 #bt-3{
     height: 20px ; 
     width: 25px;
     background-color: red ;
+    border: 5px solid blanchedalmond;
 }
 #bt-4{
     height: 20px ; 
     width: 25px;
     background-color: yellow ;
+    border: 5px solid blanchedalmond;
 }
 
 /* task 1 ended  */
@@ -101,10 +106,12 @@
     margin-left: -50px;
     top: 60%;
     margin-top: -50px;
+    color: orangered;
 } 
  .third-title{
     padding-left: 658px;
     margin-top: 600px
+    
 }
 
 
