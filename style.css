@@ -109,8 +109,8 @@
     color: orangered;
 } 
  .third-title{
-    padding-left: 658px;
-    margin-top: 600px
+    padding-left: 650px;
+    margin-top: 600px;
     
 }
 
@@ -129,7 +129,77 @@
     
 }
 
- 
+/* task 3 css ended  */
+
+
+/* task 4 css starts  */
+.fourth-task{
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    left: 630px;
+    margin-left: -50px;
+    top: 1150px;
+    margin-top: -50px;
+    
+}
+
+
+
+/* * #magic{
+    padding-left: 150px;
+    margin: 100px;
+} */
+
+ #inp{
+    height: 200px;
+    width: 450px;
+   
+}
+ .button{
+    margin: 10px;
+    padding-left: 1%;
+   
+    
+} 
+
+ #but-1{
+    height: 30px;
+    width: 70px;
+    color: tan;
+}
+ #but-2{
+    height: 30px;
+    width: 70px;
+    color: tan;
+}
+ #but-3{
+    height: 30px;
+    width: 70px;
+    color: tan;
+}
+ #but-4{
+    height: 30px;
+    width: 70px;
+    color: tan;
+}
+ #but-5{
+    height: 30px;
+    width: 90px;
+    color: tan;
+}
+ #but-6{
+    height: 30px;
+    width: 100px;
+    color: tan;
+}
+ #but-7{
+    height: 30px;
+    width: 70px;
+    color: tan;
+} 
+
+  
 
 
 
