@@ -91,6 +91,37 @@
 
 /* task 2 css ended  */
 
+
+/* task 3 css  */
+.third-task{
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    left: 27%;
+    margin-left: -50px;
+    top: 60%;
+    margin-top: -50px;
+} 
+ .third-title{
+    padding-left: 658px;
+    margin-top: 600px
+}
+
+
+.result-finder{
+    margin: 250px;
+} 
+
+ .user-inputs{
+    display: flex;
+}
+
+ .takeninput{
+    
+    margin: 1px 1px 1px 1px ;
+    
+}
+
  
 
 
