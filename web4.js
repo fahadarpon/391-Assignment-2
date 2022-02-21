@@ -1,17 +1,17 @@
 // // task 4 js starts 
- // clear it
+ // for clear it button
  function clearit(){
     document.getElementById("text-field-input").value = "";
 }
 
-// capitalize
+//for capitalize button
 function capitalize(){
     let inputtaker2 = document.getElementById("text-field-input").value;
     inputtaker2 = inputtaker2.toUpperCase();
     document.getElementById("text-field-input").value = inputtaker2;
 }
 
-// sort
+// for sorting button
 function sort(){
     let inputtaker1 = document.getElementById("text-field-input").value;
     let arrayone = inputtaker1.split("\n");
@@ -23,7 +23,7 @@ function sort(){
     document.getElementById("text-field-input").value = inputtaker2;
 }
 
-// Reverse
+// for reverse button
 function reverse(){
     let inputtaker1 = document.getElementById("text-field-input").value;
     let inputtaker2 = "";
@@ -37,7 +37,7 @@ function reverse(){
     document.getElementById("text-field-input").value = inputtaker2;
 }
 
-// Strip blank
+// for strip blank button
 function stripBlank(){
     let inputtaker1 = document.getElementById("text-field-input").value;
     let inputtaker2 = [];
@@ -55,7 +55,7 @@ function stripBlank(){
     document.getElementById("text-field-input").value = y;
 }
 
-//Add number
+// for add number button
 function addNumber(){
     let inputtaker1 = document.getElementById("text-field-input").value;
     let inputtaker2 = "";
@@ -66,7 +66,7 @@ function addNumber(){
     document.getElementById("text-field-input").value = inputtaker2;
 }
 
-//shuffle
+//for shuffle button
 function shuffle(){
     let inputtaker1 = document.getElementById("text-field-input").value;
     let inputtaker2 = "";
@@ -77,3 +77,6 @@ function shuffle(){
     }
     document.getElementById("text-field-input").value = inputtaker2;
 }
+
+
+// js ended 
