@@ -1,6 +1,6 @@
-document.getElementById("Go").onclick = convert;
+document.getElementById("Go").onclick = converter;
 // convertion function 
-function convert(){
+function converter(){
     let onepound =  0.4536;
     let onekilogram =  2.2046;
     let userinput = document.getElementById("givenumber").value;
