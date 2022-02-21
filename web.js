@@ -28,3 +28,8 @@ function showQuoteFour() {
     document.getElementById("Quotes").style.backgroundColor = 'yellow';
     document.getElementById("Quotes").style.borderBlockColor = '#556B2F';
 }
+
+
+
+
+
